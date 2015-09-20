@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btStart">Расчитать</string>
+    <string name="PrivetText">Кредитный калькулятор 435</string>
+    <string name="txSumAll">"стоимость квартиры</string>
+    <string name="mbxCreditSummary">"Срок кредита	60 мес.
+        Сумма кредита	1 700 000
+        Ставка	13.5%
+        Ежемесячный платеж	39 116,74
+        Сумма переплаты	647 004,25
+        Начало выплат	22 сентября 2015
+        Окончание выплат	22 августа 2020
+    </string>
+    <string name="LtxFirstPay">первоначальный взнос</string>
+    <string name="LtxDateFirstCreditPay">дата первого платежа</string>
+    <string name="leftBTlabel"><![CDATA[<]]></string>
+    <string name="rigthBTlable"><![CDATA[>]]></string>
+
+</resources>
